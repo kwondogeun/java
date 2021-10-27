@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>이미지 삽입</title>
+</head>
+<body>
+<h3>이미지 삽입</h3>
+<hr>
+<p>강아지 사진</p>
+<img src="Media/IMG_4991.jpg" width="150px" height="200px"
+alt="사진없음">
+
+<img src="Media/IMG_4989.jpg" width="100px" height="100px"
+alt="사진없음">
+
+</body>
+</html>

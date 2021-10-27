@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>배열 요소의 추가 삭제</title>
+</head>
+<body>
+<script>
+var a=['a','b','c'];
+a[3]='d';
+console.log(a);
+
+a.push('e');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2 style="border: 3px solid blue">dog</h2>
+<p style="border: 3px solid yellow">dog is cute</p>
+
+<div style="border: 3px solid red">
+<h2>dog</h2>
+<p>dog is cute</p>
+</div>
+
+</body>
+</html>
